@@ -1,15 +1,4 @@
-# Ex.No:4(A) EXCEPTION HANDLING
 
-## QUESTION:
-
-
-## AIM:
-
-
-## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
 # Ex.No:4(A) EXCEPTION HANDLING
 
 ## QUESTION:
@@ -125,25 +114,6 @@ The program successfully detects and handles NullPointerException by displaying 
 
 
 
-## PROGRAM:
- ```
-/*
-Program to implement a Exception Handling using Java
-Developed by: Gajalakshmi
-RegisterNumber:212224100016
-*/
-```
-
-## SOURCE CODE:
 
 
 
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
